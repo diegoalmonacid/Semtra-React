@@ -1,0 +1,250 @@
+{
+    "Consultas Médicas": [
+        { 
+            "type": "Por consulta", 
+            "total": 6900
+        },
+        { 
+            "type": "Domicilio horario hábil", 
+            "total": 12420
+        },
+        { 
+            "type": "Domicilio horario no hábil", 
+            "total": 18860
+        },
+        { 
+            "type": "Oftalmológica", 
+            "total": 10120
+        }
+    ],
+    "Atenciones Médicas": [
+        { 
+            "type": "Por atenciones", 
+            "total": 12880
+        },
+        { 
+            "type": "Por socio", 
+            "total": 235060,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por carga", 
+            "total": 39100,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por socio jubilado", 
+            "total": 225400,
+            "utilizado": 0
+        }
+    ],
+    "Psiquiatría": [
+        { 
+            "type": "Por psiquiatricas", 
+            "total": 18860
+        },
+        { 
+            "type": "Por socio", 
+            "total": 235060,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por carga", 
+            "total": 39100,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por socio jubilado", 
+            "total": 225400,
+            "utilizado": 0
+        }
+    ],
+    "Recetas Médicas": [
+        { 
+            "type": "Por socio", 
+            "total": 415380,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por carga", 
+            "total": 62100,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por socio jubilado", 
+            "total": 338100,
+            "utilizado": 0
+        }
+    ],
+    "Hospitalizaciones": [
+        { 
+            "type": "Por día", 
+            "total": 39100,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por día UTI ó UCI", 
+            "total": 78200,
+            "utilizado": 0
+        },
+        {
+            "type": "Días socio",
+            "total": 90,
+            "utilizado": 0
+        },
+        { 
+            "type": "Días carga", 
+            "total": 20,
+            "utilizado": 0
+        },
+        {
+            "type": "Días socio UTI ó UCI",
+            "total": 20,
+            "utilizado": 0
+        },
+        { 
+            "type": "Días carga UTI ó UCI", 
+            "total": 10,
+            "utilizado": 0
+        }
+    ],
+    "Intervención Quirúrgica y Derecho a Pabellón": [
+        { 
+            "type": "Por socio", 
+            "total": 250700,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por carga", 
+            "total": 36800,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por socio jubilado", 
+            "total": 250700,
+            "utilizado": 0
+        }
+    ],
+    "Prótesis, Plantillas y Órtesis": [
+        {
+            "type": "Por socio", 
+            "total": 1186800,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por carga", 
+            "total": 118680,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por socio jubilado", 
+            "total": 1012000,
+            "utilizado": 0
+        }
+    ],
+    "Colocacion de Inyecciones": [
+        { 
+            "type": "Por inyección", 
+            "total": 4140
+        }
+    ],
+    "Servicio Dental": [
+        { 
+            "type": "Por socio", 
+            "total": 296700,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por carga", 
+            "total": 49680,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por socio jubilado", 
+            "total": 296700,
+            "utilizado": 0
+        }
+    ],
+    "Aparatos Accesorios": [
+        { 
+            "type": "Cristales Simples", 
+            "total": 55200,
+            "utilizado": 0
+        },
+        {
+            "type": "Cristales Bifocales", 
+            "total": 110400,
+            "utilizado": 0
+        },
+        { 
+            "type": "Cristales Multifocales",
+            "total": 128800,
+            "utilizado": 0
+        },
+        { 
+            "type": "Lentes de Contacto",
+            "total": 92000,
+            "utilizado": 0
+        },
+        { 
+            "type": "Marcos",
+            "total": 36800,
+            "utilizado": 0
+        },
+        { 
+            "type": "Audífonos por socio",
+            "total": 368000,
+            "utilizado": 0
+        },
+        { 
+            "type": "Audífonos por carga",
+            "total": 58880,
+            "utilizado": 0
+        },
+        { 
+            "type": "Audífonos por socio jubilado",
+            "total": 322000,
+            "utilizado": 0
+        }
+    ],
+    "Nacimiento": [
+        { 
+            "type": "Parto Normal", 
+            "total": 395600,
+            "utilizado": 0
+        },
+        { 
+            "type": "Parto Cesarea", 
+            "total": 593400,
+            "utilizado": 0
+        },
+        { 
+            "type": "Parto Normal (2 o más hijos)", 
+            "total": 593400,
+            "utilizado": 0
+        },
+        { 
+            "type": "Parto Cesarea (2 o más hijos)", 
+            "total": 890100,
+            "utilizado": 0
+        }
+        
+    ],
+    "Fallecimiento": [
+        { 
+            "type": "Por socio", 
+            "total": 395600,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por carga", 
+            "total": 197800,
+            "utilizado": 0
+        },
+        { 
+            "type": "Por socio jubilado", 
+            "total": 395600,
+            "utilizado": 0
+        }
+    ]
+}
