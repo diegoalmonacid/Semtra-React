@@ -1,8 +1,34 @@
-# React + Vite
+# SEMTRA Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositorio contiene la interfaz web de SEMTRA, construida con React y Vite.
 
-Currently, two official plugins are available:
+## Requisitos Previos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Node.js (v16 o superior)
+- npm (v8+) o Yarn
+
+## Instalación
+
+1. Clona este repositorio:
+   ```bash
+    git clone <REPO_URL>
+
+1. Entra en el directorio del proyecto e instala dependencias:
+    ```bash
+    cd <REPO_FOLDER>
+    npm install
+    # o
+    yarn
+## Ejecutar en Desarrollo
+    Inicia el servidor de desarrollo con Hot‑Reloading:
+    ```bash
+    npm run dev
+    Abre http://localhost:5173 en tu navegador.
+## Configuración
+- Proxy API: vite.config.js
+- TailwindCSS: tailwind.config.js
+- ESLint: eslint.config.js
+## Más información
+- Documentación de Vite: https://vitejs.dev/
+- React + Vite plugin: https://github.com/vitejs/vite-plugin-react
+- TailwindCSS: https://tailwindcss.com/
